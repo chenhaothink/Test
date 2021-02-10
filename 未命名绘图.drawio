@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T09:40:39.556Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qjDnlbtV8NPqpXloA6wX" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-10T10:00:47.285Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="l2u1nOIf8hjX_nebABq4" version="14.2.9" type="github" pages="3">
   <diagram id="bRnhacsopjf_rvwvoULq" name="Page-1">
     <mxGraphModel dx="942" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m_KuDJyAvtUNLu-u34v_" name="第 3 页">
-    <mxGraphModel dx="219" dy="144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="785" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="fFzKiL66EHyeT-cZ4foM-0" />
         <mxCell id="fFzKiL66EHyeT-cZ4foM-1" parent="fFzKiL66EHyeT-cZ4foM-0" />
@@ -126,14 +126,14 @@
         <mxCell id="fFzKiL66EHyeT-cZ4foM-17" value="&lt;div&gt;&lt;span&gt;种族长生&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=12;strokeWidth=2;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
           <mxGeometry x="760" y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fFzKiL66EHyeT-cZ4foM-21" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;饿死、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;arial&amp;quot; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;爆炸、&lt;/span&gt;&lt;span&gt;&lt;font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot;&gt;溺死、烧死、电死：行为安全&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1" collapsed="1">
-          <mxGeometry x="199" y="200" width="320" height="30" as="geometry" />
+        <mxCell id="fFzKiL66EHyeT-cZ4foM-21" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;b&gt;溺死、烧死、电死、饿死：&lt;/b&gt;行为安全&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1" collapsed="1">
+          <mxGeometry x="199" y="200" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFzKiL66EHyeT-cZ4foM-29" value="病死:环境及食品水空气干净,气顺,煅炼,防受伤生病,疫苗" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
-          <mxGeometry x="199" y="320" width="321" height="30" as="geometry" />
+        <mxCell id="fFzKiL66EHyeT-cZ4foM-29" value="&lt;b&gt;病死:&lt;/b&gt;环境及食品水空气干净,气顺,煅炼,防受伤生病,疫苗" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
+          <mxGeometry x="199" y="322" width="328" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fFzKiL66EHyeT-cZ4foM-32" value="环境杀、天灾杀：环境安全" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
-          <mxGeometry x="198" y="160" width="321" height="30" as="geometry" />
+        <mxCell id="fFzKiL66EHyeT-cZ4foM-32" value="&lt;b&gt;环境杀、天灾杀：&lt;/b&gt;环境安全" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
+          <mxGeometry x="198" y="160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fFzKiL66EHyeT-cZ4foM-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontSize=30;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fFzKiL66EHyeT-cZ4foM-1" target="fFzKiL66EHyeT-cZ4foM-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,11 +146,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFzKiL66EHyeT-cZ4foM-37" value="自杀、气死、作死：气顺" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
-          <mxGeometry x="199" y="280" width="321" height="30" as="geometry" />
+        <mxCell id="fFzKiL66EHyeT-cZ4foM-37" value="&lt;b&gt;自杀、气死、作死：&lt;/b&gt;气顺" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
+          <mxGeometry x="199" y="282" width="167" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fFzKiL66EHyeT-cZ4foM-38" value="&lt;span style=&quot;&quot;&gt;他杀：人身安全，关系和谐，少得罪人&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
-          <mxGeometry x="199" y="240" width="321" height="30" as="geometry" />
+        <mxCell id="fFzKiL66EHyeT-cZ4foM-38" value="&lt;b&gt;他杀：&lt;/b&gt;人身安全，关系和谐，少得罪人" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
+          <mxGeometry x="199" y="242" width="239" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fFzKiL66EHyeT-cZ4foM-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fFzKiL66EHyeT-cZ4foM-1" target="fFzKiL66EHyeT-cZ4foM-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -206,8 +206,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFzKiL66EHyeT-cZ4foM-44" value="未知死亡：学好安身立命本领，避免作死，活的更好更久。人真的很脆弱，经不起折腾，一口水，一口饭就能要命。&lt;br&gt;与万物相比，人的伟大在于，知道会这样。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
-          <mxGeometry x="198.5" y="83" width="322" height="67" as="geometry" />
+        <mxCell id="fFzKiL66EHyeT-cZ4foM-44" value="&lt;b&gt;未知死亡：&lt;/b&gt;学好安身立命本领，避免作死，活的更好更久。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" parent="fFzKiL66EHyeT-cZ4foM-1" vertex="1">
+          <mxGeometry x="198.5" y="109" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fFzKiL66EHyeT-cZ4foM-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fFzKiL66EHyeT-cZ4foM-1" target="fFzKiL66EHyeT-cZ4foM-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
