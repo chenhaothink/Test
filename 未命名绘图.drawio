@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:09:45.006Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yfBGtMN8zFgXBxRcQ-kh" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-10T13:11:24.102Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_z6aJbzZltZ_DiMw0DiO" version="14.2.9" type="github" pages="4">
   <diagram id="bRnhacsopjf_rvwvoULq" name="Page-1">
     <mxGraphModel dx="942" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-4" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;赚钱&amp;nbsp; 有啥卖啥，缺啥卖啥，哪痛哪有需求&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-3">
+        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-4" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;赚钱&amp;nbsp; 工作有钱就投资，然后不断翻倍，不投会贬值&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-5" value="够生活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="y2ksuw5Uqc5YH2P_OnfJ-3">
@@ -307,8 +307,8 @@
         <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-18" value="&lt;b&gt;服务变现：&lt;/b&gt;工作，出脑/出力/出时间" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1">
           <mxGeometry x="187" y="430" width="273" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-19" value="&lt;b&gt;倒卖赚差价：&lt;/b&gt;代理、市场分销、信息差" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1">
-          <mxGeometry x="187" y="390" width="361" height="30" as="geometry" />
+        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-19" value="&lt;b&gt;倒卖赚差价：&lt;/b&gt;代理、市场分销、信息差、供需中介" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1">
+          <mxGeometry x="187" y="390" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1" target="y2ksuw5Uqc5YH2P_OnfJ-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -414,14 +414,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-31" value="&lt;b&gt;暴富：&lt;/b&gt;高附加值/可复制/可量产/快速传播/大额交易/垄断/利润高(虚拟商品/品牌/智慧产权/书等）" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1">
-          <mxGeometry x="186" y="150" width="554" height="30" as="geometry" />
+        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-31" value="&lt;b&gt;暴富：&lt;/b&gt;倍数放大/高附加值/可复制/可量产/快速传播/大额交易/垄断(上市/虚拟商品/品牌/智慧产权/书等）" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1">
+          <mxGeometry x="186" y="100" width="554" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1" target="y2ksuw5Uqc5YH2P_OnfJ-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="158" y="490" as="sourcePoint" />
             <mxPoint x="187" y="190" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="158" y="190" />
+              <mxPoint x="158" y="370" />
+              <mxPoint x="158" y="320" />
+              <mxPoint x="158" y="370" />
+              <mxPoint x="158" y="450" />
+              <mxPoint x="158" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-33" value="&lt;b&gt;模仿游戏：&lt;/b&gt;吸收别人牛的地方应用到自己产品上。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1">
+          <mxGeometry x="186" y="150" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ksuw5Uqc5YH2P_OnfJ-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y2ksuw5Uqc5YH2P_OnfJ-1" target="y2ksuw5Uqc5YH2P_OnfJ-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="158" y="489.9999999999999" as="sourcePoint" />
+            <mxPoint x="186.0000000000001" y="205" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="158" y="330" />
               <mxPoint x="158" y="190" />
               <mxPoint x="158" y="370" />
               <mxPoint x="158" y="320" />
